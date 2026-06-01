@@ -1,6 +1,11 @@
 # luna_api
 Простой враппер api для LunaStore
 
+Для установки используйте pip
+```sh
+pip install git+https://github.com/SachaTending/luna_api
+```
+
 Пример использования:
 ```py
 from luna_api import LunaInstance
