@@ -1,0 +1,15 @@
+[project]
+name = "luna_api"
+version = "0.0.1"
+authors = [
+  { name="TendingStream83" },
+]
+description = "A LunaStore wrapper"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+dependencies = ['httpx']

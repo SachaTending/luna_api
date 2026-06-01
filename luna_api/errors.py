@@ -1,0 +1,1 @@
+class InstanceError(Exception): pass
