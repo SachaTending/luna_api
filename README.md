@@ -16,3 +16,6 @@ heartbeat_response = instance.heartbeat() # Вызываем метод heartbea
 
 print(f"Ответ heartbeat: {heartbeat_response}")
 ```
+
+# Использовался ли ИИ при создании этого проекта?
+Нет.
